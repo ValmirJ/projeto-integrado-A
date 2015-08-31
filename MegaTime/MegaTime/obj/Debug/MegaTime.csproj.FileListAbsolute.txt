@@ -1,0 +1,124 @@
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+c:\users\valmir jr\documents\visual studio 2013\Projects\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\leonimurilo\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\Valmir Jr\Desktop\MegaTime atualizado\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\leonimurilo\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\15174782\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\15174782\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\15174782\Desktop\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\15174782\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\15081631\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\15081631\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\15081631\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\15081631\Desktop\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\15081631\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\Valmir Jr\Desktop\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\Valmir Jr\Desktop\MegaTime - Projeto Integrado\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
+C:\Users\15174782\Downloads\MegaTime\MegaTime\bin\Debug\MegaTime.exe.config
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.exe
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.pdb
+C:\Users\15174782\Downloads\MegaTime\MegaTime\bin\Debug\MegaTime.exe
+C:\Users\15174782\Downloads\MegaTime\MegaTime\bin\Debug\MegaTime.pdb
+C:\Users\15174782\Downloads\MegaTime\MegaTime\bin\Debug\API_OrgaoRegulador.dll
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.csprojResolveAssemblyReference.cache
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.Consulta.resources
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.Form1.resources
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.Inicio.resources
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.Properties.Resources.resources
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.Recibo.resources
+C:\Users\15174782\Downloads\MegaTime\MegaTime\obj\Debug\MegaTime.csproj.GenerateResource.Cache
